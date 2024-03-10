@@ -3,4 +3,4 @@ Bachelor's thesis: "Designing Interventions Preventing Information Leakage in Vi
 
 See wiki for more info: https://github.com/54sb38/VR_Internventions/wiki
 
-![alt text]([http://url/to/img.png](https://github.com/54sb38/VR_Internventions/blob/main/UnityStreet.png)https://github.com/54sb38/VR_Internventions/blob/main/UnityStreet.png "Screenshot")
+![alt text](https://github.com/54sb38/VR_Internventions/blob/main/UnityStreet.png)
